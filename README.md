@@ -1,3 +1,3 @@
 # odin-recipes
 
-The best genshin receipes. Made with HTML.
+The best genshin recipes. Made with HTML.
